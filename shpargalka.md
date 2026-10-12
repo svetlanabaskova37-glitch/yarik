@@ -165,7 +165,7 @@ ___
 
 
 
-![Изображение](https://yandex.ru/images/search?search_client=unknown&text=изображения&pos=9&rpt=simage&img_url=https%3A%2F%2Fiv.okcdn.ru%2FgetVideoPreview%3Fid%3D10493449734820%26idx%3D0%26type%3D39%26tkn%3DZrk2amLv9onpK6exrOHOZp-pAHU%26fn%3Dvid_w&from=tabbar&lr=10741)
+![Изображение](file:///C:/Users/yarik/OneDrive/Рабочий%20стол/i.webp)
 
 
 
