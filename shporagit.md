@@ -1,4 +1,4 @@
-# Шпаргалка по Git
+  # Шпаргалка по Git
 
 > Команды Git и порядок работы с ними - от установки до создания pull request.
 
@@ -192,7 +192,8 @@ remote:      https://github.com/accrust42-dev/git/pull/new/new
 
 На странице репозитория появляется баннер с кнопкой **Compare & pull request** - жмём её.
 
-![Баннер "had recent pushes" с кнопкой Compare & pull request](img/pr-3-compare.png)
+![Баннер "had recent pushes" с кнопкой Compare & pull request](<img width="925" height="88" alt="pr-3-compare" src="https://github.com/user-attachments/assets/2be1cae8-2276-40e6-bb13-1b206662624c" />
+)
 
 ### Шаг 3. Заполняем форму и создаём PR
 
@@ -204,7 +205,8 @@ remote:      https://github.com/accrust42-dev/git/pull/new/new
 
 Заполняем **Add a title** (кратко, что сделано) и **Add a description** (подробности), затем жмём зелёную кнопку **Create pull request**.
 
-![Форма создания pull request с кнопкой Create pull request](img/pr-1-create.png)
+![Форма создания pull request с кнопкой Create pull request](<img width="1271" height="627" alt="pr-1-create" src="https://github.com/user-attachments/assets/b4c05a97-559a-4a32-accf-81913752d8ab" />
+)
 
 > 💡 Галочка **Allow edits by maintainers** разрешает владельцу репозитория самому править вашу ветку - обычно её оставляют включённой.
 
