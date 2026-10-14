@@ -202,7 +202,7 @@ remote:      https://github.com/accrust42-dev/git/pull/new/new
 
 Заполняем **Add a title** (кратко, что сделано) и **Add a description** (подробности), затем жмём зелёную кнопку **Create pull request**.
 
-![Форма создания pull request с кнопкой Create pull request](<img width="1271" height="627" alt="pr-1-create" src="https://github.com/user-attachments/assets/b4c05a97-559a-4a32-accf-81913752d8ab" />)
+![Форма создания pull request с кнопкой Create pull request](https://github.com/svetlanabaskova37-glitch/yarik/blob/main/pr-1-create.png?raw=true)
 
 > 💡 Галочка **Allow edits by maintainers** разрешает владельцу репозитория самому править вашу ветку - обычно её оставляют включённой.
 
