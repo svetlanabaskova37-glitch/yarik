@@ -1,7 +1,4 @@
 
-    ├── pr-1-create.png
-    ├── pr-2-push.png
-    └── pr-3-compare.p# Шпаргалка по Git и Markdown
 
 Учебный репозиторий с конспектами: команды Git и синтаксис Markdown.
 
