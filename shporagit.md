@@ -1,5 +1,7 @@
-# Команды Git
-# Шпаргалка по Git и Markdown
+
+    ├── pr-1-create.png
+    ├── pr-2-push.png
+    └── pr-3-compare.p# Шпаргалка по Git и Markdown
 
 Учебный репозиторий с конспектами: команды Git и синтаксис Markdown.
 
@@ -7,8 +9,8 @@
 
 | Файл | О чём |
 |---|---|
-| [shpargalka.md](shpargalka.md) | Шпаргалка по Git - 15 разделов: от `git --version` до создания pull request |
-| [shporagit.md](shporagit.md) | Шпаргалка по Markdown - заголовки, списки, ссылки, код, таблицы |
+| [shporagit.md](shporagit.md) | Шпаргалка по Git - 15 разделов: от `git --version` до создания pull request |
+| [shpargalka.md](shpargalka.md) | Шпаргалка по Markdown - заголовки, списки, ссылки, код, таблицы |
 
 ## Что внутри
 
@@ -30,10 +32,7 @@
 ├── shporagit.md       # шпаргалка по Git
 ├── shpargalka.md      # шпаргалка по Markdown
 └── img/               # изображения для обоих файлов
-    ├── i.webp
-    ├── pr-1-create.png
-    ├── pr-2-push.png
-    └── pr-3-compare.png
+    ├── i.webpng
 ```
 
 ## Как пользоваться
