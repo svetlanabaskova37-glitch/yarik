@@ -184,15 +184,13 @@ remote: Create a pull request for 'new' on GitHub by visiting:
 remote:      https://github.com/accrust42-dev/git/pull/new/new
 ```
 
-![Терминал: git add, git commit, git push и ссылка на создание pull request](<img width="513" height="544" alt="pr-2-push" src="https://github.com/user-attachments/assets/0716e9a1-d47d-47e1-a2c7-49bbac6b7a06" />
-)
+![Терминал: git add, git commit, git push и ссылка на создание pull request](<img width="513" height="544" alt="pr-2-push" src="https://github.com/user-attachments/assets/0716e9a1-d47d-47e1-a2c7-49bbac6b7a06" />)
 
 ### Шаг 2. Переходим к созданию PR
 
 На странице репозитория появляется баннер с кнопкой **Compare & pull request** - жмём её.
 
-![Баннер "had recent pushes" с кнопкой Compare & pull request](<img width="925" height="88" alt="pr-3-compare" src="https://github.com/user-attachments/assets/2be1cae8-2276-40e6-bb13-1b206662624c" />
-)
+![Баннер "had recent pushes" с кнопкой Compare & pull request](<img width="925" height="88" alt="pr-3-compare" src="https://github.com/user-attachments/assets/2be1cae8-2276-40e6-bb13-1b206662624c" />)
 
 ### Шаг 3. Заполняем форму и создаём PR
 
@@ -204,8 +202,7 @@ remote:      https://github.com/accrust42-dev/git/pull/new/new
 
 Заполняем **Add a title** (кратко, что сделано) и **Add a description** (подробности), затем жмём зелёную кнопку **Create pull request**.
 
-![Форма создания pull request с кнопкой Create pull request](<img width="1271" height="627" alt="pr-1-create" src="https://github.com/user-attachments/assets/b4c05a97-559a-4a32-accf-81913752d8ab" />
-)
+![Форма создания pull request с кнопкой Create pull request](<img width="1271" height="627" alt="pr-1-create" src="https://github.com/user-attachments/assets/b4c05a97-559a-4a32-accf-81913752d8ab" />)
 
 > 💡 Галочка **Allow edits by maintainers** разрешает владельцу репозитория самому править вашу ветку - обычно её оставляют включённой.
 
