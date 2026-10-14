@@ -184,7 +184,9 @@ remote: Create a pull request for 'new' on GitHub by visiting:
 remote:      https://github.com/accrust42-dev/git/pull/new/new
 ```
 
-![Терминал: git add, git commit, git push и ссылка на создание pull request](img/pr-2-push.png)
+![Терминал: git add, git commit, git push и ссылка на создание pull request](<img width="513" height="544" alt="pr-2-push" src="https://github.com/user-attachments/assets/0716e9a1-d47d-47e1-a2c7-49bbac6b7a06" />
+<img width="513" height="544" alt="pr-2-push" src="https://github.com/user-attachments/assets/e087039d-03ef-4cc3-aba3-af5301ea8c0d" />
+)
 
 ### Шаг 2. Переходим к созданию PR
 
