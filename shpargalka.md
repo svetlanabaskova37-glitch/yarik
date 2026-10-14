@@ -165,8 +165,6 @@ ___
 
 
 
-![Изображение](<img width="480" height="269" alt="image" src="https://github.com/user-attachments/assets/9d2ed1eb-f97d-4964-ae37-275828e7ed6d" />)
-
 
 
 ![Изображение](i.webp)
