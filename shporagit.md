@@ -190,7 +190,7 @@ remote:      https://github.com/accrust42-dev/git/pull/new/new
 
 На странице репозитория появляется баннер с кнопкой **Compare & pull request** - жмём её.
 
-![Баннер "had recent pushes" с кнопкой Compare & pull request](<img width="925" height="88" alt="pr-3-compare" src="https://github.com/user-attachments/assets/2be1cae8-2276-40e6-bb13-1b206662624c" />)
+![Баннер "had recent pushes" с кнопкой Compare & pull request](https://github.com/svetlanabaskova37-glitch/yarik/blob/main/pr-3-compare.png?raw=true)
 
 ### Шаг 3. Заполняем форму и создаём PR
 
