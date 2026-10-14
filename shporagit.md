@@ -7,7 +7,7 @@
 
 | Файл | О чём |
 |---|---|
-| [shporagit.md](shporagit.md) | Шпаргалка по Git - 15 разделов: от `git --version` до создания pull request |
+| [shporagit.md](shpargalka.md) | Шпаргалка по Git - 15 разделов: от `git --version` до создания pull request |
 | [shpargalka.md](shpargalka.md) | Шпаргалка по Markdown - заголовки, списки, ссылки, код, таблицы |
 
 ## Что внутри
